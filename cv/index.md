@@ -11,7 +11,7 @@ Education
 ---------
 
 2014-2019 (expected)
-:   **PhD, Electrical Engineeringe**; Boston University, Boston, MA
+:   **PhD, Electrical Engineering**; Boston University, Boston, MA
 
     *Thesis title: Computational Methods for Single-Photon Lidar Imaging*
 
