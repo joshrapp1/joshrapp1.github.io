@@ -1,3 +1,8 @@
+---
+layout: resume
+title: Joshua Rapp
+---
+
 Joshua Rapp
 ============
 
