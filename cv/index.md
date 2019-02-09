@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Joshua Rapp
+title: Joshua Rapp CV
 ---
 
 Joshua Rapp
