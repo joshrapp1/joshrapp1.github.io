@@ -1,3 +1,8 @@
+---
+layout: default
+title: CV
+---
+
 A First Level Header
 ====================
 
