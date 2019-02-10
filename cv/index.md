@@ -1,27 +1,29 @@
----
-layout: resume
-title: Joshua Rapp CV
----
-
 Joshua Rapp
 ============
 
--------------------     ----------------------------------------
+----------------------------------------------------------------
 39 South Street, #5                                 jrapp@bu.edu
-Brighton, MA 02135         [Website][http://joshrapp1.github.io]
+Brighton, MA 02135         [Website](http://joshrapp1.github.io)
 USA                                               (339) 364-4375
--------------------     ----------------------------------------
+----------------------------------------------------------------
 
 Education
 ---------
 
-2014-2019 (expected)
+2014-2019 (anticipated)
 :   **PhD, Electrical Engineering**; Boston University, Boston, MA
-
+    
+    Advisor: [Vivek Goyal](http://www.bu.edu/eng/profile/vivek-goyal/)
     *Thesis title: Computational Methods for Single-Photon Lidar Imaging*
 
 2010-2014
 :   **BS, Electrical Engineering**; Tufts University, Medford, MA
+    *summa cum laude
+
+Awards/Fellowships
+------------------
+
+
 
 Experience
 ----------
