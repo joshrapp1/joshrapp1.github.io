@@ -79,9 +79,8 @@ Honorable Mention**.
 10. "Spatially-Adaptive Noise Censoring for Photon-Efficient Active Imaging," BU CISE
 Graduate Student Workshop, January 2016, Boston, MA, USA. (Oral) **Best Presenter Award**.
 
-Professional Service
---------------------
-* Professional Affiliations
+## Professional Service
+### Professional Affiliations
     * Tau Beta Pi, Member 2012
     * IEEE-Eta Kappa Nu, Member 2012
     * IEEE Student Member, 2012
@@ -90,7 +89,7 @@ Professional Service
     * IEEE Computational Imaging Technical Committee Affiliate Member, 2017
     * OSA Student Member, 2018
     
-* Journal Review
+### Journal Review
     * Reviewer, SIAM Journal on Imaging Sciences
     * Reviewer, IEEE Transactions on Computational Imaging
     * Reviewer, Optics Express
