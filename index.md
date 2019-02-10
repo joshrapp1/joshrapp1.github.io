@@ -1,6 +1,6 @@
 # Joshua Rapp
 
-![alt text](https://github.com/joshrapp1/joshrapp1.github.io/images/fullsizeoutput_1412.jpeg "Joshua Rapp")
+![alt text](https://github.com/joshrapp1/joshrapp1.github.io/blob/master/images/fullsizeoutput_1412.jpeg =250x)<!-- .element height="50%" width="50%" -->
 
 I am currently a PhD student in Electrical Engineering at Boston University, 
 supported by a Draper Fellowship. 
