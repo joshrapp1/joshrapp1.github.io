@@ -15,8 +15,9 @@ jrapp@bu.edu
 
 >> Thesis: *Computational Methods for Single-Photon Lidar Imaging*
 
-2010-2014
-> **BS, Electrical Engineering**; Tufts University, Medford, MA
+
+> **BS, Electrical Engineering**, 2010-2014 
+>> Tufts University, Medford, MA
 >> *summa cum laude*
 
 ## Awards/Fellowships
