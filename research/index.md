@@ -1,6 +1,6 @@
 
 # Single-Photon Lidar
-## Unmixing Signal and Background Light
+## Robust Imaging in Strong Background Light
 
 ## Dithered Depth Measurement
 
