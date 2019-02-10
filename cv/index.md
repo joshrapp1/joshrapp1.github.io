@@ -5,22 +5,21 @@ Joshua Rapp
 jrapp@bu.edu
 
 http://joshrapp1.github.io                                         
+
 --------------------------
 
 Education
 ---------
 
 2014-2019 (anticipated)
-:   **PhD, Electrical Engineering**; Boston University, Boston, MA
-    
-:    Advisor: [Vivek Goyal](http://www.bu.edu/eng/profile/vivek-goyal/)
-    
-:    *Thesis title: Computational Methods for Single-Photon Lidar Imaging*
+> **PhD, Electrical Engineering**; Boston University, Boston, MA    
+>> Advisor: [Vivek Goyal](http://www.bu.edu/eng/profile/vivek-goyal/)
+
+>> *Thesis title: Computational Methods for Single-Photon Lidar Imaging*
 
 2010-2014
-:   **BS, Electrical Engineering**; Tufts University, Medford, MA
-
-:    *summa cum laude*
+> **BS, Electrical Engineering**; Tufts University, Medford, MA
+>> *summa cum laude*
 
 Awards/Fellowships
 ------------------
@@ -38,30 +37,28 @@ Awards/Fellowships
 Publications
 ------------
 **Journal Papers**
-1. J. Rapp and V. K. Goyal, \A Few Photons Among Many: Unmixing Signal and Noise
-for Photon-Efficient Active Imaging," IEEE Transactions on Computational Imaging,
+1. J. Rapp and V. K. Goyal, "A Few Photons Among Many: Unmixing Signal and Noise
+for Photon-Efficient Active Imaging," *IEEE Transactions on Computational Imaging*,
 vol. 3, no. 3, pp. 445-459, September 2017.
 
 **Papers in preparation**
 1. J. Rapp, R. M. A. Dawson, and V. K. Goyal, "Estimation from Quantized Gaussian
-Measurements: When and How to Use Dither," submitted to IEEE Transactions on
-Signal Processing, Oct. 2018.
+Measurements: When and How to Use Dither," submitted to *IEEE Transactions on
+Signal Processing*, Oct. 2018.
 2. J. Rapp*, Y. Ma*, R. M. A. Dawson, and V. K. Goyal, "Dead Time Compensation
-for High-Flux Ranging," submitted to IEEE Transactions on Signal Processing, Sept.
-2018.
-(*equal contribution)
+for High-Flux Ranging," submitted to *IEEE Transactions on Signal Processing*, Sept. 2018. (*equal contribution)
 
 Presentations
 -------------
 **Conference Papers**
 1. J. Rapp, Y. Ma, R. M. A. Dawson, and V. K. Goyal, "Dead Time Compensation for
-High-Flux Imaging," accepted to Proc. IEEE Int. Conf. Acoust., Speech, and Signal
-Process. (ICASSP), May 2019. (Oral)
+High-Flux Imaging," accepted to *Proc. IEEE Int. Conf. Acoust., Speech, and Signal
+Process. (ICASSP)*, May 2019. (Oral)
 2. J. Rapp, R. M. A. Dawson, and V. K. Goyal, "Improving Lidar Depth Resolution
-With Dither," Proc. IEEE Int. Conf. Image Process. (ICIP), October 2018. (Poster)
-Best Student Paper Award, Third Place
-3. J. Rapp, R. M. A. Dawson, and V. K. Goyal, "Dither-enhanced lidar," Computational
-Optical Sensing and Imaging. Optical Society of America, June 2018. (Poster)
+With Dither," *Proc. IEEE Int. Conf. Image Process. (ICIP)*, October 2018. (Poster)
+**Best Student Paper Award**, Third Place
+3. J. Rapp, R. M. A. Dawson, and V. K. Goyal, "Dither-enhanced lidar," *Computational
+Optical Sensing and Imaging*. Optical Society of America, June 2018. (Poster)
 
 **Meeting presentations with no proceedings**
 1. "Single Photon Detection with Dead Time," BU CISE Graduate Student Workshop,
@@ -70,24 +67,21 @@ January 2019, Boston, MA, USA. (Oral)
 Workshop, November 2018, Cambridge, MA, USA. (Poster)
 3. "Dither-Enhanced Lidar Imaging," Gordon Research Conference on Image Science,
 June 2018, Easton, MA, USA. (Poster)
-4. "Dither-Enhanced Lidar Imaging," International Conference on Computational Pho-
-tography (ICCP), May 2018, Pittsburgh, PA, USA. (Poster)
+4. "Dither-Enhanced Lidar Imaging," International Conference on Computational Photography (ICCP), May 2018, Pittsburgh, PA, USA. (Poster)
 5. "Dither-Enhanced Lidar Imaging," Boston Photonics Conference, February 2018,
 Boston, MA, USA. (Oral)
-6. "A Few Photons Among Many: Unmixing Signal and Noise for Photon-Ecient Active
+6. "A Few Photons Among Many: Unmixing Signal and Noise for Photon-Efficient Active
 Imaging," IEEE International Conference on Image Processing (ICIP), September
 2017, Beijing, China. (Oral)
-7. "Unmixing Signal and Noise for Photon-Ecient Active Imaging," Single Photon
+7. "Unmixing Signal and Noise for Photon-Efficient Active Imaging," Single Photon
 Workshop (SPW), August 2017, Boulder, CO, USA. (Oral)
-8. "A Few Photons Among Many: Unmixing Signal and Noise for Photon-Ecient Ac-
-tive Imaging," International Conference on Computational Photography (ICCP), May
+8. "A Few Photons Among Many: Unmixing Signal and Noise for Photon-Efficient Active Imaging," International Conference on Computational Photography (ICCP), May
 2017, Stanford, CA, USA. (Poster)
 9. "Unmixing Signal and Background Noise for Photon-Efficient Active Imaging," BU
-Graduate Research Symposium, April 2016, Boston, MA, USA. (Poster) CISE Award
-Honorable Mention.
+Graduate Research Symposium, April 2016, Boston, MA, USA. (Poster) **CISE Award
+Honorable Mention**.
 10. "Spatially-Adaptive Noise Censoring for Photon-Efficient Active Imaging," BU CISE
-Graduate Student Workshop, January 2016, Boston, MA, USA. (Oral) Best Pre-
-senter Award.
+Graduate Student Workshop, January 2016, Boston, MA, USA. (Oral) **Best Presenter Award**.
 
 Professional Service
 --------------------
