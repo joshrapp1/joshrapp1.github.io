@@ -11,7 +11,8 @@ jrapp@bu.edu
 2014-2019 (anticipated)
 > **PhD, Electrical Engineering**; Boston University, Boston, MA    
 >> Advisor: [Vivek Goyal](http://www.bu.edu/eng/profile/vivek-goyal/)
->> *Thesis title: Computational Methods for Single-Photon Lidar Imaging*
+
+>> Thesis: *Computational Methods for Single-Photon Lidar Imaging*
 
 2010-2014
 > **BS, Electrical Engineering**; Tufts University, Medford, MA
