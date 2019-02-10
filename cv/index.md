@@ -70,7 +70,7 @@ Boston, MA, USA. (Oral)
 Imaging," IEEE International Conference on Image Processing (ICIP), September
 2017, Beijing, China. (Oral)
 7. "Unmixing Signal and Noise for Photon-Efficient Active Imaging," Single Photon
-Workshop (SPW), August 2017, Boulder, CO, USA. (Oral)
+Workshop (SPW), August 2017, Boulder, CO, USA. (Oral) [[recording]](https://www.nist.gov/video/joshua-rapp-imaging)
 8. "A Few Photons Among Many: Unmixing Signal and Noise for Photon-Efficient Active Imaging," International Conference on Computational Photography (ICCP), May
 2017, Stanford, CA, USA. (Poster)
 9. "Unmixing Signal and Background Noise for Photon-Efficient Active Imaging," BU
