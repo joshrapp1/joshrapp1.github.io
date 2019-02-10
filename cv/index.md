@@ -40,9 +40,10 @@ vol. 3, no. 3, pp. 445-459, September 2017. [[paper+code]](https://ieeexplore.ie
 ### Papers in preparation
 1. J. Rapp, R. M. A. Dawson, and V. K. Goyal, "Estimation from Quantized Gaussian
 Measurements: When and How to Use Dither," submitted to *IEEE Transactions on
-Signal Processing*, Oct. 2018.
+Signal Processing*, Oct. 2018. [[arXiv]](https://arxiv.org/abs/1811.06856)
+
 2. J. Rapp*, Y. Ma*, R. M. A. Dawson, and V. K. Goyal, "Dead Time Compensation
-for High-Flux Ranging," submitted to *IEEE Transactions on Signal Processing*, Sept. 2018. (*equal contribution)
+for High-Flux Ranging," submitted to *IEEE Transactions on Signal Processing*, Sept. 2018. (*equal contribution) [[arXiv]](https://arxiv.org/abs/1810.11145)
 
 ## Presentations
 ### Conference Papers
