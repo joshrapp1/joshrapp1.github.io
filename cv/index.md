@@ -11,7 +11,6 @@ jrapp@bu.edu
 2014-2019 (anticipated)
 > **PhD, Electrical Engineering**; Boston University, Boston, MA    
 >> Advisor: [Vivek Goyal](http://www.bu.edu/eng/profile/vivek-goyal/)
-
 >> *Thesis title: Computational Methods for Single-Photon Lidar Imaging*
 
 2010-2014
@@ -41,7 +40,6 @@ vol. 3, no. 3, pp. 445-459, September 2017. [[paper+code]](https://ieeexplore.ie
 1. J. Rapp, R. M. A. Dawson, and V. K. Goyal, "Estimation from Quantized Gaussian
 Measurements: When and How to Use Dither," submitted to *IEEE Transactions on
 Signal Processing*, Oct. 2018. [[arXiv]](https://arxiv.org/abs/1811.06856)
-
 2. J. Rapp*, Y. Ma*, R. M. A. Dawson, and V. K. Goyal, "Dead Time Compensation
 for High-Flux Ranging," submitted to *IEEE Transactions on Signal Processing*, Sept. 2018. (*equal contribution) [[arXiv]](https://arxiv.org/abs/1810.11145)
 
