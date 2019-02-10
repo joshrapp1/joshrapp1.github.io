@@ -34,7 +34,7 @@ Awards/Fellowships
 * Zenie Foundation Scholarship, 2013
 * Morris and Sid Heyman Prize Scholarship, Tufts University, 2013
 
-Experience
+Research Experience
 ----------
 
 **Your Most Recent Work Experience:**
@@ -103,3 +103,21 @@ Extra Section, Call it Whatever You Want
 * Random tidbit
 
 * Other sort of impressive-sounding thing you did
+
+Professional Service
+--------------------
+* Professional Affiliations
+    * Tau Beta Pi, Member 2012
+    * IEEE-Eta Kappa Nu, Member 2012
+    * IEEE Student Member, 2012
+    * SIAM Student Member, 2016
+    * IEEE Signal Processing Society Member, 2017
+    * IEEE Computational Imaging Technical Committee Affiliate Member, 2017
+    * OSA Student Member, 2018
+    
+* Journal Review
+    * Reviewer, SIAM Journal on Imaging Sciences
+    * Reviewer, IEEE Transactions on Computational Imaging
+    * Reviewer, Optics Express
+    * Reviewer, Optical Engineering
+    * Reviewer, IEEE Radar Conference
