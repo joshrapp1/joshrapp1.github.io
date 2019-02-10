@@ -35,7 +35,7 @@ jrapp@bu.edu
 ### Journal Papers
 1. J. Rapp and V. K. Goyal, "A Few Photons Among Many: Unmixing Signal and Noise
 for Photon-Efficient Active Imaging," *IEEE Transactions on Computational Imaging*,
-vol. 3, no. 3, pp. 445-459, September 2017.
+vol. 3, no. 3, pp. 445-459, September 2017. [[paper+code]](https://ieeexplore.ieee.org/document/7932527)
 
 ### Papers in preparation
 1. J. Rapp, R. M. A. Dawson, and V. K. Goyal, "Estimation from Quantized Gaussian
@@ -51,7 +51,7 @@ High-Flux Imaging," accepted to *Proc. IEEE Int. Conf. Acoust., Speech, and Sign
 Process. (ICASSP)*, May 2019. (Oral)
 2. J. Rapp, R. M. A. Dawson, and V. K. Goyal, "Improving Lidar Depth Resolution
 With Dither," *Proc. IEEE Int. Conf. Image Process. (ICIP)*, October 2018. (Poster)
-**Best Student Paper Award**, Third Place
+**Best Student Paper Award**, Third Place [[paper]](https://ieeexplore.ieee.org/document/8451528)
 3. J. Rapp, R. M. A. Dawson, and V. K. Goyal, "Dither-enhanced lidar," *Computational
 Optical Sensing and Imaging*. Optical Society of America, June 2018. (Poster)
 
