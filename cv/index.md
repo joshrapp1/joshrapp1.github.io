@@ -30,23 +30,22 @@ jrapp@bu.edu
 * Zenie Foundation Scholarship, 2013
 * Morris and Sid Heyman Prize Scholarship, Tufts University, 2013
 
-Publications
-------------
-**Journal Papers**
+## Publications
+
+### Journal Papers
 1. J. Rapp and V. K. Goyal, "A Few Photons Among Many: Unmixing Signal and Noise
 for Photon-Efficient Active Imaging," *IEEE Transactions on Computational Imaging*,
 vol. 3, no. 3, pp. 445-459, September 2017.
 
-**Papers in preparation**
+### Papers in preparation
 1. J. Rapp, R. M. A. Dawson, and V. K. Goyal, "Estimation from Quantized Gaussian
 Measurements: When and How to Use Dither," submitted to *IEEE Transactions on
 Signal Processing*, Oct. 2018.
 2. J. Rapp*, Y. Ma*, R. M. A. Dawson, and V. K. Goyal, "Dead Time Compensation
 for High-Flux Ranging," submitted to *IEEE Transactions on Signal Processing*, Sept. 2018. (*equal contribution)
 
-Presentations
--------------
-**Conference Papers**
+## Presentations
+### Conference Papers
 1. J. Rapp, Y. Ma, R. M. A. Dawson, and V. K. Goyal, "Dead Time Compensation for
 High-Flux Imaging," accepted to *Proc. IEEE Int. Conf. Acoust., Speech, and Signal
 Process. (ICASSP)*, May 2019. (Oral)
@@ -56,7 +55,7 @@ With Dither," *Proc. IEEE Int. Conf. Image Process. (ICIP)*, October 2018. (Post
 3. J. Rapp, R. M. A. Dawson, and V. K. Goyal, "Dither-enhanced lidar," *Computational
 Optical Sensing and Imaging*. Optical Society of America, June 2018. (Poster)
 
-**Meeting presentations with no proceedings**
+### Meeting presentations with no proceedings
 1. "Single Photon Detection with Dead Time," BU CISE Graduate Student Workshop,
 January 2019, Boston, MA, USA. (Oral)
 2. "Improving Lidar Depth Resolution With Dither," New England Computer Vision
