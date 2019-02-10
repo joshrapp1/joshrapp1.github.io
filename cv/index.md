@@ -7,9 +7,10 @@ jrapp@bu.edu
 
 ## Education
 
+> **PhD, Electrical Engineering**, 2014-2019 (anticipated)
 
-2014-2019 (anticipated)
-> **PhD, Electrical Engineering**; Boston University, Boston, MA    
+>> Boston University, Boston, MA    
+
 >> Advisor: [Vivek Goyal](http://www.bu.edu/eng/profile/vivek-goyal/)
 
 >> Thesis: *Computational Methods for Single-Photon Lidar Imaging*
