@@ -1,15 +1,12 @@
-Joshua Rapp
-============
+# Joshua Rapp
 
---------------------------
 jrapp@bu.edu
 
-http://joshrapp1.github.io                                         
-
 --------------------------
 
-Education
----------
+
+## Education
+
 
 2014-2019 (anticipated)
 > **PhD, Electrical Engineering**; Boston University, Boston, MA    
@@ -21,8 +18,7 @@ Education
 > **BS, Electrical Engineering**; Tufts University, Medford, MA
 >> *summa cum laude*
 
-Awards/Fellowships
-------------------
+## Awards/Fellowships
 
 * Charles S. Draper Laboratory Fellowship, 2015-Present
 * Best Student Paper Award, 3rd Place, IEEE ICIP, 2018
