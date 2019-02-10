@@ -24,8 +24,15 @@ Education
 Awards/Fellowships
 ------------------
 
-Charles S. Draper Laboratory Fellowship 2015-Present
-
+* Charles S. Draper Laboratory Fellowship, 2015-Present
+* Best Student Paper Award, 3rd Place, IEEE ICIP, 2018
+* Outstanding Graduate Teaching Assistant, Boston University ECE Dept., 2017
+* Graduate Research Symposium, CISE Honorable Mention, Boston University, 2016
+* CISE Graduate Student Workshop Best Presenter Award, Boston University, 2016
+* Amos Emerson Dolbear Scholarship, Tufts University, 2014
+* Sharon Mead Halverson Scholarship, Tufts University, 2014
+* Zenie Foundation Scholarship, 2013
+* Morris and Sid Heyman Prize Scholarship, Tufts University, 2013
 
 Experience
 ----------
