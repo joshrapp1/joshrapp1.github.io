@@ -23,3 +23,16 @@ and which estimator to apply.
 
 ## Dead Time Compensation
 <img src="/images/deadtime.png" width="600">
+
+Dead time effects have been considered a major limitation for fast data acquisition in various
+time-correlated single photon counting applications, since a commonly adopted approach for 
+dead time mitigation is to operate in the low-flux regime where dead time effects can be ignored. 
+Through the application of lidar ranging, this work explores the empirical distribution of 
+detection times in the presence of dead time and demonstrates that an accurate statistical 
+model can result in reduced ranging error with faster data acquisition time when operating in the high-flux regime. 
+Specifically, we show that the empirical distribution of detection times converges to the 
+stationary distribution of a Markov chain. 
+Depth estimation can then be performed by passing the empirical distribution through a filter 
+matched to the stationary distribution. 
+Moreover, based on the Markov chain model, we formulate the recovery of arrival distribution 
+from detection distribution as a nonlinear inverse problem and solve it via provably convergent mathematical optimization.
