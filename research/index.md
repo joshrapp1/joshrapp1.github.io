@@ -11,5 +11,12 @@ data are combined from neighboring pixels to improve depth estimates,
 where the neighborhood formation is also adaptive to scene content.
 
 ## Dithered Depth Measurement
+Using detector arrays can speed up lidar systems by parallelizing acquisition. 
+However, current SPAD arrays have time bins longer than typical laser pulse durations, 
+resulting in measurement errors dom- inated by quantization. 
+We propose an optical time-of-flight system that uses subtractive dither to improve image depth resolution. 
+Additional modeling of the measurement noise with a generalized Gaussian distribution 
+leads to more efficient order statistics-based estimators and rules of thumb for when subtractive dither is useful
+and which estimator to apply.
 
 ## Dead Time Compensation
