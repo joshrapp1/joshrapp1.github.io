@@ -1,7 +1,7 @@
 
 # Single-Photon Lidar
 ## Robust Imaging in Strong Background Light
-<img src="/images/rapp2.pdf" width="600">
+<img src="/images/unmixing.png" width="600">
 
 We introduce a new approach to depth and reflectivity estimation that emphasizes 
 the unmixing of contributions from signal and noise sources. At each pixel in an image,
