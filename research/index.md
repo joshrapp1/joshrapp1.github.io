@@ -10,16 +10,21 @@ likely to be due to noise. For pixels with too few detections to perform this ce
 data are combined from neighboring pixels to improve depth estimates, 
 where the neighborhood formation is also adaptive to scene content.
 
+* [TCI paper](https://ieeexplore.ieee.org/document/7932527)
+
 ## Dithered Depth Measurement
 <img src="/images/dither.png" width="600">
 
 Using detector arrays can speed up lidar systems by parallelizing acquisition. 
 However, current SPAD arrays have time bins longer than typical laser pulse durations, 
-resulting in measurement errors dom- inated by quantization. 
+resulting in measurement errors dominated by quantization. 
 We propose an optical time-of-flight system that uses subtractive dither to improve image depth resolution. 
 Additional modeling of the measurement noise with a generalized Gaussian distribution 
 leads to more efficient order statistics-based estimators and rules of thumb for when subtractive dither is useful
 and which estimator to apply.
+
+* [arXiv preprint on GG approximation for dither noise](https://arxiv.org/abs/1811.06856)
+* [ICIP paper with experimental results](https://ieeexplore.ieee.org/document/8451528)
 
 ## Dead Time Compensation
 <img src="/images/deadtime.png" width="600">
@@ -36,3 +41,7 @@ Depth estimation can then be performed by passing the empirical distribution thr
 matched to the stationary distribution. 
 Moreover, based on the Markov chain model, we formulate the recovery of arrival distribution 
 from detection distribution as a nonlinear inverse problem and solve it via provably convergent mathematical optimization.
+
+* [arXiv preprint establishing Markov Chain theory](https://arxiv.org/abs/1810.11145)
+
+
