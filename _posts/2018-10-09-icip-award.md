@@ -11,6 +11,7 @@ at ICIP 2018 for my paper "Improving Lidar Depth Resolution with Dither."
 This work demonstrates how subtractive dither can be applied to photon-
 counting lidar to achieve higher-resolution depth images.
 The same principles could be used in SPAD arrays to reduce the need for 
-access to high-resolution clock for each pixel.
+access to a high-resolution clock at each pixel.
 
-> [Link to award announcement](https://2018.ieeeicip.org/Awards.asp)
+* [Link to award announcement](https://2018.ieeeicip.org/Awards.asp)
+* [BU ECE News](https://www.bu.edu/eng/2018/11/07/the-depth-of-depth-measurement/)
