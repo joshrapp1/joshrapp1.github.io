@@ -1,4 +1,4 @@
 name: Joshua Rapp
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /news/:year/:month/:day/:title
 timezone: America/New_York
