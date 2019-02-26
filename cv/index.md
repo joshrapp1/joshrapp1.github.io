@@ -90,4 +90,4 @@ Graduate Student Workshop, January 2016, Boston, MA, USA. (Oral) **Best Presente
 * OSA Student Member, 2018
     
 ### Journal Review
-* Reviewer, SIAM Journal on Imaging Sciences, IEEE Transactions on Computational Imaging, Optics Express, Optical Engineering, IEEE Radar Conference 2019
+Reviewer for SIAM Journal on Imaging Sciences, IEEE Transactions on Computational Imaging, Optics Express, Optical Engineering, IEEE Radar Conference 2019
