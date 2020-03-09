@@ -34,16 +34,16 @@ jrapp@bu.edu
 ## Publications
 
 ### Journal Papers
+3. J. Rapp\*, Y. Ma\*, R. M. A. Dawson, and V. K. Goyal, "Dead Time Compensation for High-Flux Ranging," *IEEE Transactions on Signal Processing*, vol. 67, no. 13, pp. 3471-3486, July 2019. (\*equal contribution) [[paper]](https://ieeexplore.ieee.org/document/8705308/)
+
+2. J. Rapp, R. M. A. Dawson, and V. K. Goyal, "Estimation from Quantized Gaussian Measurements: When and How to Use Dither," *IEEE Transactions on Signal Processing*, vol. 67, no. 13, pp. 3424-3438, July 2019. [[paper]](https://ieeexplore.ieee.org/document/8712540/)
+    
 1. J. Rapp and V. K. Goyal, "A Few Photons Among Many: Unmixing Signal and Noise
 for Photon-Efficient Active Imaging," *IEEE Transactions on Computational Imaging*,
 vol. 3, no. 3, pp. 445-459, September 2017. [[paper+code]](https://ieeexplore.ieee.org/document/7932527)
 
 ### Papers in preparation
-1. J. Rapp, R. M. A. Dawson, and V. K. Goyal, "Estimation from Quantized Gaussian
-Measurements: When and How to Use Dither," submitted to *IEEE Transactions on
-Signal Processing*, Oct. 2018. [[arXiv]](https://arxiv.org/abs/1811.06856)
-2. J. Rapp\*, Y. Ma\*, R. M. A. Dawson, and V. K. Goyal, "Dead Time Compensation
-for High-Flux Ranging," submitted to *IEEE Transactions on Signal Processing*, Sept. 2018. (\*equal contribution) [[arXiv]](https://arxiv.org/abs/1810.11145)
+1. 4. J. Rapp\*, Charles Saunders\*, Julián Tachella\*, John Murray-Bruce, Yoann Altmann, Jean-Yves Tourneret, Stephen McLaughlin, Robin M. A. Dawson, Franco N. C. Wong, and V. K. Goyal, "Seeing Around Corners with Edge-Resolved Transient Imaging," *submitted*, January 2020. (\*equal contribution)  [[arXiv]](https://arxiv.org/abs/2002.07118)
 
 ## Presentations
 ### Conference Papers
