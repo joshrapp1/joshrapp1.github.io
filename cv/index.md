@@ -1,6 +1,6 @@
 # Joshua Rapp
 
-jrapp@bu.edu
+jrapp@stanford.edu
 
 --------------------------
 
@@ -47,7 +47,7 @@ vol. 3, no. 3, pp. 445-459, September 2017. [[paper+code]](https://ieeexplore.ie
 
 ## Presentations
 ### Conference Papers
-4. J. Rapp}, Y. Ma, R. M. A. Dawson, and V. K. Goyal, "Markov Chain Modeling for High-Flux Single-Photon Detection with Dead Times,"  *Mathematics in Imaging*. OSA Imaging and Applied Optics Congress, June 2019. (Oral)
+4. J. Rapp, Y. Ma, R. M. A. Dawson, and V. K. Goyal, "Markov Chain Modeling for High-Flux Single-Photon Detection with Dead Times,"  *Mathematics in Imaging*. OSA Imaging and Applied Optics Congress, June 2019. (Oral)
 3. J. Rapp, Y. Ma, R. M. A. Dawson, and V. K. Goyal, "Dead Time Compensation for
 High-Flux Imaging," accepted to *Proc. IEEE Int. Conf. Acoust., Speech, and Signal
 Process. (ICASSP)*, May 2019. (Oral)
