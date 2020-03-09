@@ -7,13 +7,13 @@ jrapp@bu.edu
 
 ## Education
 
-**PhD, Electrical Engineering**, 2014-2019 (anticipated)
+**PhD, Electrical Engineering**, 2014-2020
 
 > Boston University, Boston, MA    
 
 > Advisor: [Vivek Goyal](http://www.bu.edu/eng/profile/vivek-goyal/)
 
-> Thesis: *Computational Methods for Single-Photon Lidar Imaging*
+> Thesis: *Probabilistic Modeling for Single-Photon Lidar*
 
 
 **BS, Electrical Engineering**, 2010-2014 
@@ -90,4 +90,4 @@ Graduate Student Workshop, January 2016, Boston, MA, USA. (Oral) **Best Presente
 * OSA Student Member, 2018
     
 ### Journal Review
-Reviewer for SIAM Journal on Imaging Sciences, IEEE Transactions on Computational Imaging, Optics Express, Optical Engineering, IEEE Radar Conference 2019
+Reviewer for SIAM Journal on Imaging Sciences, IEEE Transactions on Computational Imaging, Applied Optics, Optics Express, Optical Engineering, IEEE Radar Conference 2019, ICIP 2019
