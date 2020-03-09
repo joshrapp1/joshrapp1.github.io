@@ -2,8 +2,9 @@
 
 <img src="/images/fullsizeoutput_1412.jpeg" width="200">
 
-I am currently a PhD student in Electrical Engineering at Boston University, 
-supported by a Draper Fellowship. 
+I am currently a Postdoctoral Researcher in the [Computational Imaging Lab](http://www.computationalimaging.org/) at Stanford University.
+I received the Ph.D. degree in electrical engineering from [Boston University](http://sites.bu.edu/goyal/) in 2020.
+During my Ph.D., I was supported by a [Draper Fellowship](https://www.draper.com/careers/fellow-program). 
 My research is focused on expanding the capabilities of single-photon lidar systems, 
 from increasing acquisition speed, temporal resolution, and robustness to ambient light to seeing around corners.
 
